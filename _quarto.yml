@@ -3,16 +3,25 @@ project:
   output-dir: docs
 
 website:
-  title: "HelenSeitzer"
+  title: "Helen Seitzer"
   navbar:
+    background: primary
+    search: true
+    pinned: true
     left:
       - href: index.qmd
         text: Home
       - about.qmd
-
+      - text: "CV"
+        file: Seitzer_CV.pdf
+      - text: "Publications"
+      - text: "Teaching"
+      - text: "Conferences"
+      - text: "Conference attendance"
+      - text: "Reviewed for"
 format:
   html:
-    theme: cosmo
+    theme: spacelab
     css: styles.css
     toc: true
 
