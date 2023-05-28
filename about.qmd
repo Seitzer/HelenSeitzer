@@ -2,8 +2,24 @@
 title: "About"
 ---
 
-About this site
+Here you can find any News about me
 
-```{r}
-1 + 1
-```
+ - text: "Publications"
+
+file: publications.qmd
+
+ - text: "Teaching"
+
+file: teaching.qmd
+
+ - text: "Conferences"
+
+file: teaching.qmd
+
+ - text: "Conference attendance"
+
+file: teaching.qmd
+
+ - text: "Reviewed for"
+
+file: reviewed.qmd

@@ -13,12 +13,7 @@ website:
         text: Home
       - about.qmd
       - text: "CV"
-        file: Seitzer_CV.pdf
-      - text: "Publications"
-      - text: "Teaching"
-      - text: "Conferences"
-      - text: "Conference attendance"
-      - text: "Reviewed for"
+
 format:
   html:
     theme: spacelab
